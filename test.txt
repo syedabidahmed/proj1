@@ -1,1 +1,3 @@
 this is the sec file in proj1
+
+addaing a new line to the script
